@@ -454,6 +454,12 @@ All business names, workflows, patient scenarios, and operational activities are
 
 If you found this implementation helpful, feel free to explore the documentation and screenshots to learn more about the solution design and implementation approach.
 
+## Live Repository
+
+🔗 GitHub
+
+https://github.com/cbmaduka/clickup-medical-clinic-implementation
+
 ## Author
 
 **Chika Blessing**
